@@ -15,8 +15,12 @@ Bank_Database_Project/
 ├── ├── Credit Risk Metrics
 ├── ├── Churned Customers with Recent Fraudulent Transactions
 
-
 ├── outputs
 ├── ├──output.sql
+
+Bank-Customer-Dashboard
+├── Dashboard.xlsx
+├── README.md
+
 
 
